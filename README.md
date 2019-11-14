@@ -1,2 +1,2 @@
-# Calculator_Project
-This is a demo project
+# 计算器项目
+这个项目用于展示如何使用Git进行协作开发
